@@ -1,4 +1,4 @@
-# bot-list
+# Discord TR Bot Wiki
 Sunucular da eklenmesi gereken botların tür olarak ayrılmasıyla beraber, güzel bir şey ortaya koymak istedim
 
 ## Gizemli/Tanınmayan
