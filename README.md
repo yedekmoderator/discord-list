@@ -21,3 +21,15 @@ B1zny tarafından yapılıp, zira takımına devredilen bu bot'un genel olarak a
 [⌚](https://sink.discord.bot/%E2%8C%9A) - [Support](https://discord.gg/m2VkfaFAYj)   `w!`
 
 Sink'in geliştiricileri tarafından yapılan, küçük çapta ama cidden gerekli ve **mod-log** görevi gören bir, saat bot'u, bunun konfigrasyonu biraz abartılmış gibi duruyor çünkü bot'un kurulumu için site'den bot'u ekledikten sonra, sunucunuz da `w!setup` yazarak, bot'u kurmak için gereken kodları alıp, site de ayarlama yaptıktan sonra, bot "kick" ve "ban" gibi gerekli logları sizlere, ayarlanılan kanallara gönderiyor, bu şekil de çok rahat görünümlü ve gerektiği zaman çalışan bir gizemli bot'a sahip oluyorsunuz, kesinlikle ama kesinlikle gereken, sunucu'nun yönetiminde kullanılan bir bot kendisi, ekleyin. 
+
+[Wikipulse](https://discordapp.com/oauth2/authorize?client_id=242191257202458624&scope=bot) - [Support] ⚠️ Destek Sunucusu Bulunmuyor - `wp!, wiki!, @Wikipulse`
+
+Vikipedi mantığı adı altında çalışan ve, sadece vikipedi'de arama yapmak için kullanılan, görünümü ve tasarımı hoş, ve bazı diğer burada listelenen botların geliştiricileri tarafından yapılan, yine gizli ve cidden çok az kullanıma sahip, sunucu da bir şeyi araştırmak isterseniz diye gereken bir bot kendisi, sunucunuz da bir şeyi araştırmak istiyorsanız bu bot'u kullanabilirsiniz, eğer ki bot'u kullanamadıysanız, üstteki support'tan değil de, bizim [sunucuya](https://discord.gg/hgh7qgZ) gelebilirsiniz, bot gerçekten kullanışlı, ekleyin.
+
+[Air Conditioner](https://discord.com/oauth2/authorize?client_id=735857612293275690&scope=bot&permissions=36818176) - [Support](https://discord.com/invite/8ZqctVY) `!achelp`
+
+Discord'da bulunan ve tek klima bot'u olarak gösterilen bu başyapıt'ı ses kanalınız da __7/24__ tutabiliyorsunuz, ancak tek sıkıntısı, sitesi ve bot'un genel de hep çevrimdışı olmasından kaynaklanıyor, ne gibi bir yerden hostladıklarına dair bir bilgim yok ama, support sunucusundan onlara bu dileğinizi dile getirebilir ve sorular yöneltebilirsiniz, bununla birlikte, bot'un tek özelliği sesli kanalında üflemek, `Medium`, `Turbo` gibi ayarları olan bu bot, sadece soğuk üflüyor ve derecesini de ayarlayabiliyoruz, sesli de arkadaşlarınız ile konuşurken, arkadan "buuhuhuughu" gibi şeyler gelmesini istiyorsanız, ekleyebilirsiniz.
+
+[Pillarboxd](https://discord.com/api/oauth2/authorize?client_id=581122842436042752&permissions=92160&scope=bot) - [Support] ⚠️ Destek Sunucusu Bulunmuyor - `!helplb`
+
+Pillarboxd, bir site'nin apisinden uyarlanmış ve __film/dizi__ araştırmak için yarar sağlayan bir discord botudur, genel-sohbet kısmında çok fazla yer kaplamayan ve genel de, insanların rahatça kullanabiliceği bir bottur, istediğiniz şekil de kullanabilir ve __dizi/film__ karakterleri hakkında da bilgi sahibi olabilirsiniz.
