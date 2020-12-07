@@ -1,4 +1,4 @@
-# Discord TR Bot Wiki
+# Discord TR Bot Wiki - Discord'da olan gerekli şeylerin listelenmesini sağlıyoruz! (Aşağıdan Kategorisel olarak sıralanmış gerekli Discord Botlarına ulaşabilirsin)
 Sunucular da eklenmesi gereken botların tür olarak ayrılmasıyla beraber, güzel bir şey ortaya koymak istedim
 
 ## Gizemli/Tanınmayan
