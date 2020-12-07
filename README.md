@@ -12,4 +12,10 @@ Genel de, ortalama bir kullanım kitlesine sahip olan __42__'nin çok fazla ser�
 
 [Redditbot](https://discord.com/oauth2/authorize?client_id=173203149203439616&scope=bot) - [Support](https://discord.com/invite/mcfU4Qtr) `r/`
 
-121 sunucusu olmasına rağmen(Şuan ki durumu) doğrulama almadı, "neden almadı?" veya "alır mı?" gibi soruları bana değil,  Support'da ki sunucu'dan geliştiricisine ulaşabilirsiniz, ama bildiğim kadarıyla geliştiricisi bu bot'a normal olarak pek değer vermiyor veya geliştirmiyor, bu bir meşgul olma durumu olabilir veya zamanı da olmayabilir, ama bir şekil de olduğu yer de kaldı, aşırı güzel bir subreddit sunucuları için kullanabilicek bir bot, tasarımı ve konfigrasyonu aşırı hoş ve zevkli, üstte ki linklerden belki bir gün doğrulama alırsa ekleyebilirsiniz. 
+121 sunucusu olmasına rağmen(Şuan ki durumu) doğrulama almadı, "neden almadı?" veya "alır mı?" gibi soruları bana değil,  Support'da ki sunucu'dan geliştiricisine ulaşabilirsiniz, ama bildiğim kadarıyla geliştiricisi bu bot'a normal olarak pek değer vermiyor veya geliştirmiyor, bu bir meşgul olma durumu olabilir veya zamanı da olmayabilir, ama bir şekil de olduğu yer de kaldı, aşırı güzel bir subreddit sunucuları için kullanabilicek bir bot, tasarımı ve konfigrasyonu aşırı hoş ve zevkli, üstte ki linklerden belki bir gün doğrulama alırsa ekleyebilirsiniz.
+
+[HepBoat](https://discord.com/oauth2/authorize?client_id=520047158104424488&scope=bot&permissions=8) - [Support](https://zira.ovh/support) `!`
+
+B1zny tarafından yapılıp, zira takımına devredilen bu bot'un genel olarak amacı her şeyi kapsamaktır, bot'u kullanabilmek için, sunucunuza getirmek için bazı formları ve şartları doldurmanız ve koymanız gerekiyor, [form](https://hep.gg/form-hbwhitelist/)'a buradan ulaşabilir ve **1000** üye'den fazla bir sunucuysanız bu bot'u başvurarak, whitelist'e sunucunuzun adını yazdırabilirsiniz, bu bot'un yapımcıları, diğer [Zira](https://zira.ovh/invite) gibi botların yapımcıları tarafından yapılmıştır, support sunucusundan daha fazla bilgiye ulaşabilirsiniz.
+
+ 
