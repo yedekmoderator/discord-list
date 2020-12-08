@@ -1,7 +1,7 @@
 # Discord TR Bot Wiki - Discord'da olan gerekli şeylerin listelenmesini sağlıyoruz! (Aşağıdan Kategorisel olarak sıralanmış gerekli Discord Botlarına ulaşabilirsin)
 Sunucular da eklenmesi gereken botların tür olarak ayrılmasıyla beraber, güzel bir şey ortaya koymak istedim
 
-## Gizemli/Tanınmayan
+## Gizemli/Tanınmayan - Botlar
 
 [Kitchen Sink](https://discord.com/oauth2/authorize?client_id=236726289665490944&scope=bot) - [Support](https://discord.gg/m2VkfaFAYj)   `pls - pls prefix`                                            
 200 - 300 sunucu da ekli olan ve komutları gizli olan, discord'da eşi benzeri olmayan bir mutfak lavabo bot'u, teması gereği böyle bir şeyi hoş görüp, eklemişler, dediğim gibi __komutları gizli__ ve kimse şu zamana kadar tüm komutlarını bulamadı, bazı sunucular "google form" açıp, community commands ve featured list gibi benzeri komut listeleri açtılar ve insanlar komut haznesini genişletti, ek olarak(botu sunucunuza ekledikten sonra) `pls progress` yazarak ne kadar komut'a ulaştığınız da görebilirsiniz, `pls pingmod` gibi garip ve ilginç komutları da olan bu bot'un, discord'da başka bir benzeri yoktur, eklemelisiniz. [Topluluk Komut Listesi](https://docs.google.com/document/d/1NOwcwYn5uqcETbojVleyu80adNxuclUj0TTSWWLbOfs/edit#heading=h.mksknmwmz3te)
@@ -33,3 +33,9 @@ Discord'da bulunan ve tek klima bot'u olarak gösterilen bu başyapıt'ı ses ka
 [Pillarboxd](https://discord.com/api/oauth2/authorize?client_id=581122842436042752&permissions=92160&scope=bot) - [Support] ⚠️ Destek Sunucusu Bulunmuyor - `!helplb`
 
 Pillarboxd, bir site'nin apisinden uyarlanmış ve __film/dizi__ araştırmak için yarar sağlayan bir discord botudur, genel-sohbet kısmında çok fazla yer kaplamayan ve genel de, insanların rahatça kullanabiliceği bir bottur, istediğiniz şekil de kullanabilir ve __dizi/film__ karakterleri hakkında da bilgi sahibi olabilirsiniz.
+
+## Gizemli/Tanınmayan - Sunucular
+
+[Base Horizon](https://discord.gg/hgh7qgZ) - [Kurucu](https://discord.com/users/591567129594036225) - [Tanıtım](https://i.imgur.com/ixlvjLl.png)
+
+Sunucu'nun genel amacı, insanlara yardım etmekten, bir şeyler kurmaktan ibaret, her şeyi yapmaya ve bununla birlikte geliştirmeye çalışıyorum(z) kurucusu ben olarak, sizlere bir şeyler öğretmeyi çok seviyorum, botlar yapıyoruz(yaptık) sunucu etkinliklerine katılıyoruz, sunucu da sohbet ediyoruz ve sunucu da sohbet çok önemli bir yer de, ayrıca, discord'da bilinmeyen ve kullanılmayan her şeyi genel de kullanıyoruz ve bazı araştırmalarımız da bunlar üzerine, projeler buluyoruz ve uygulamaya gayret gösteriyoruz, insanların bize sorduğu soruları geçiştirmeden, güzel ve tatlı bir dil ile anlatıyoruz, kurallara uyulmalı ve düzenli sohbet edilebilir bir yer, geliceğinizi düşünerek, hoş geldiniz. 
