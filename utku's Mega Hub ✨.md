@@ -7,8 +7,8 @@ Biz bu amaçtan ve vazifemizden vazgeçmiyiceğiz ve ilelebet, sunucu'nun ilerle
 Sizler de bizlere yardım etmek istiyorsanız, sunucuya gelebilmek için aşağıda olan herhangi bir linkten, sunucuya gelebilirsiniz.
   Bu depolamaya yardım edebilmek ve pull atabilmek için, sunucu'da olmanız gerekmektedir.
 
-https://discord.gg/CHMQbUQfnX
-https://discord.gg/3PewjsK2AU
-https://discord.gg/Ue5qRyhzUR
+- https://discord.gg/CHMQbUQfnX
+- https://discord.gg/3PewjsK2AU
+- https://discord.gg/Ue5qRyhzUR
 
-https://disboard.org/server/731744435095994378
+- https://disboard.org/server/731744435095994378
