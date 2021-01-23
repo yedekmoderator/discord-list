@@ -22,7 +22,7 @@ B1zny tarafından yapılıp, zira takımına devredilen bu bot'un genel olarak a
 
 Sink'in geliştiricileri tarafından yapılan, küçük çapta ama cidden gerekli ve **mod-log** görevi gören bir, saat bot'u, bunun konfigrasyonu biraz abartılmış gibi duruyor çünkü bot'un kurulumu için site'den bot'u ekledikten sonra, sunucunuz da `w!setup` yazarak, bot'u kurmak için gereken kodları alıp, site de ayarlama yaptıktan sonra, bot "kick" ve "ban" gibi gerekli logları sizlere, ayarlanılan kanallara gönderiyor, bu şekil de çok rahat görünümlü ve gerektiği zaman çalışan bir gizemli bot'a sahip oluyorsunuz, kesinlikle ama kesinlikle gereken, sunucu'nun yönetiminde kullanılan bir bot kendisi, ekleyin. 
 
-[Wikipulse](https://discordapp.com/oauth2/authorize?client_id=242191257202458624&scope=bot) - [Support] ⚠️ Destek Sunucusu Bulunmuyor - `wp!, wiki!, @Wikipulse`
+[Wikipulse](https://discordapp.com/oauth2/authorize?client_id=242191257202458624&scope=bot) - [Support](https://discord.gg/m2VkfaFAYj) - `wp!, wiki!, @Wikipulse`
 
 Vikipedi mantığı adı altında çalışan ve, sadece vikipedi'de arama yapmak için kullanılan, görünümü ve tasarımı hoş, ve bazı diğer burada listelenen botların geliştiricileri tarafından yapılan, yine gizli ve cidden çok az kullanıma sahip, sunucu da bir şeyi araştırmak isterseniz diye gereken bir bot kendisi, sunucunuz da bir şeyi araştırmak istiyorsanız bu bot'u kullanabilirsiniz, eğer ki bot'u kullanamadıysanız, üstteki support'tan değil de, bizim [sunucuya](https://discord.gg/hgh7qgZ) gelebilirsiniz, bot gerçekten kullanışlı, ekleyin.
 
