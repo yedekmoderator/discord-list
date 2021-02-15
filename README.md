@@ -32,4 +32,4 @@ Discord'da bulunan ve tek klima bot'u olarak gösterilen bu başyapıt'ı ses ka
 
 ~~~[Pillarboxd](https://discord.com/api/oauth2/authorize?client_id=581122842436042752&permissions=92160&scope=bot) - [Support] ⚠️ Destek Sunucusu Bulunmuyor - `!helplb`
 
-Pillarboxd, bir site'nin apisinden uyarlanmış ve __film/dizi__ araştırmak için yarar sağlayan bir discord botudur, genel-sohbet kısmında çok fazla yer kaplamayan ve genel de, insanların rahatça kullanabiliceği bir bottur, istediğiniz şekil de kullanabilir ve __dizi/film__ karakterleri hakkında da bilgi sahibi olabilirsiniz.~~
+~~Pillarboxd, bir site'nin apisinden uyarlanmış ve __film/dizi__ araştırmak için yarar sağlayan bir discord botudur, genel-sohbet kısmında çok fazla yer kaplamayan ve genel de, insanların rahatça kullanabiliceği bir bottur, istediğiniz şekil de kullanabilir ve __dizi/film__ karakterleri hakkında da bilgi sahibi olabilirsiniz.~~
