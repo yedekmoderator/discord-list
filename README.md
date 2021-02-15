@@ -29,7 +29,3 @@ Vikipedi mantığı adı altında çalışan ve, sadece vikipedi'de arama yapmak
 [Air Conditioner](https://discord.com/oauth2/authorize?client_id=735857612293275690&scope=bot&permissions=36818176) - [Support](https://discord.com/invite/8ZqctVY) `!achelp`
 
 Discord'da bulunan ve tek klima bot'u olarak gösterilen bu başyapıt'ı ses kanalınız da __7/24__ tutabiliyorsunuz, ancak tek sıkıntısı, sitesi ve bot'un genel de hep çevrimdışı olmasından kaynaklanıyor, ne gibi bir yerden hostladıklarına dair bir bilgim yok ama, support sunucusundan onlara bu dileğinizi dile getirebilir ve sorular yöneltebilirsiniz, bununla birlikte, bot'un tek özelliği sesli kanalında üflemek, `Medium`, `Turbo` gibi ayarları olan bu bot, sadece soğuk üflüyor ve derecesini de ayarlayabiliyoruz, sesli de arkadaşlarınız ile konuşurken, arkadan "buuhuhuughu" gibi şeyler gelmesini istiyorsanız, ekleyebilirsiniz.
-
-~~~[Pillarboxd](https://discord.com/api/oauth2/authorize?client_id=581122842436042752&permissions=92160&scope=bot) - [Support] ⚠️ Destek Sunucusu Bulunmuyor - `!helplb`
-
-~~Pillarboxd, bir site'nin apisinden uyarlanmış ve __film/dizi__ araştırmak için yarar sağlayan bir discord botudur, genel-sohbet kısmında çok fazla yer kaplamayan ve genel de, insanların rahatça kullanabiliceği bir bottur, istediğiniz şekil de kullanabilir ve __dizi/film__ karakterleri hakkında da bilgi sahibi olabilirsiniz.~~
