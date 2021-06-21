@@ -17,5 +17,4 @@ This repository exists to collect all kinds of servers, bots, sites and so on ab
 
 # How can I help?
 ## Fork
-
-https://why-am-i-he.re/zI5JwR
+![https://why-am-i-he.re/zI5JwR](Fork1)
