@@ -14,7 +14,3 @@ we got help from [this](https://github.com/ppy/osu-wiki/blob/master/CONTRIBUTING
 ## Requirements
 
 This repository exists to collect all kinds of servers, bots, sites and so on about discord and put them in a proper order, so knowing the basic and average information about discord culture and discord will help you organize it while helping us. If you are an average 2 or 3-year discord user and want to help us translate this repository into your own language, write to us immediately.
-
-# How can I help?
-## Fork
-![fork](https://why-am-i-he.re/zI5JwR "Fork1")
